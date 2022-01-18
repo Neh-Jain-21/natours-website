@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/natours-website/static/css/main.2a3054b5.chunk.css",
+    "main.js": "/natours-website/static/js/main.ab30a5c0.chunk.js",
+    "main.js.map": "/natours-website/static/js/main.ab30a5c0.chunk.js.map",
+    "runtime-main.js": "/natours-website/static/js/runtime-main.7b0180ad.js",
+    "runtime-main.js.map": "/natours-website/static/js/runtime-main.7b0180ad.js.map",
+    "static/js/2.365f233c.chunk.js": "/natours-website/static/js/2.365f233c.chunk.js",
+    "static/js/2.365f233c.chunk.js.map": "/natours-website/static/js/2.365f233c.chunk.js.map",
+    "index.html": "/natours-website/index.html",
+    "static/css/main.2a3054b5.chunk.css.map": "/natours-website/static/css/main.2a3054b5.chunk.css.map",
+    "static/js/2.365f233c.chunk.js.LICENSE.txt": "/natours-website/static/js/2.365f233c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/natours-website/static/media/nat-7.167e44e4.jpg",
+    "static/media/logo-green-1x.cf3c47ee.png": "/natours-website/static/media/logo-green-1x.cf3c47ee.png",
+    "static/media/logo-green-2x.76177450.png": "/natours-website/static/media/logo-green-2x.76177450.png",
+    "static/media/logo-white.6c89a3f0.png": "/natours-website/static/media/logo-white.6c89a3f0.png",
+    "static/media/nat-1-large.a1c1cbdb.jpg": "/natours-website/static/media/nat-1-large.a1c1cbdb.jpg",
+    "static/media/nat-1.0e0a34b9.jpg": "/natours-website/static/media/nat-1.0e0a34b9.jpg",
+    "static/media/nat-2-large.cbc0cd9f.jpg": "/natours-website/static/media/nat-2-large.cbc0cd9f.jpg",
+    "static/media/nat-2.e2a50751.jpg": "/natours-website/static/media/nat-2.e2a50751.jpg",
+    "static/media/nat-3-large.da53b7a0.jpg": "/natours-website/static/media/nat-3-large.da53b7a0.jpg",
+    "static/media/nat-3.5eff150a.jpg": "/natours-website/static/media/nat-3.5eff150a.jpg",
+    "static/media/nat-8.10678031.jpg": "/natours-website/static/media/nat-8.10678031.jpg",
+    "static/media/nat-9.b7a3e52c.jpg": "/natours-website/static/media/nat-9.b7a3e52c.jpg",
+    "static/media/video.697d9c04.mp4": "/natours-website/static/media/video.697d9c04.mp4",
+    "static/media/video.defbf1bb.webm": "/natours-website/static/media/video.defbf1bb.webm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0180ad.js",
+    "static/js/2.365f233c.chunk.js",
+    "static/css/main.2a3054b5.chunk.css",
+    "static/js/main.ab30a5c0.chunk.js"
+  ]
+}
