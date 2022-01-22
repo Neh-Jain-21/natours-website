@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/natours-website/static/css/main.2a3054b5.chunk.css",
-    "main.js": "/natours-website/static/js/main.ab30a5c0.chunk.js",
-    "main.js.map": "/natours-website/static/js/main.ab30a5c0.chunk.js.map",
+    "main.js": "/natours-website/static/js/main.81cad71e.chunk.js",
+    "main.js.map": "/natours-website/static/js/main.81cad71e.chunk.js.map",
     "runtime-main.js": "/natours-website/static/js/runtime-main.7b0180ad.js",
     "runtime-main.js.map": "/natours-website/static/js/runtime-main.7b0180ad.js.map",
     "static/js/2.365f233c.chunk.js": "/natours-website/static/js/2.365f233c.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.7b0180ad.js",
     "static/js/2.365f233c.chunk.js",
     "static/css/main.2a3054b5.chunk.css",
-    "static/js/main.ab30a5c0.chunk.js"
+    "static/js/main.81cad71e.chunk.js"
   ]
 }
